@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nxtwave_assignement/static/css/main.e78cd7b3.css",
+    "main.js": "/Nxtwave_assignement/static/js/main.09c251a6.js",
+    "static/js/787.c087522e.chunk.js": "/Nxtwave_assignement/static/js/787.c087522e.chunk.js",
+    "static/media/create_item.svg": "/Nxtwave_assignement/static/media/create_item.e5f1653be9f021beaf4440c70f86eac8.svg",
+    "static/media/person.svg": "/Nxtwave_assignement/static/media/person.1b668ffb78841f8f23bcbb7e4f7c9e96.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Nxtwave_assignement/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Nxtwave_assignement/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Nxtwave_assignement/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Nxtwave_assignement/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Nxtwave_assignement/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Nxtwave_assignement/index.html",
+    "main.e78cd7b3.css.map": "/Nxtwave_assignement/static/css/main.e78cd7b3.css.map",
+    "main.09c251a6.js.map": "/Nxtwave_assignement/static/js/main.09c251a6.js.map",
+    "787.c087522e.chunk.js.map": "/Nxtwave_assignement/static/js/787.c087522e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e78cd7b3.css",
+    "static/js/main.09c251a6.js"
+  ]
+}
