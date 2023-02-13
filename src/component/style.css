@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@600&family=Manrope&family=Rubik&display=swap');
+
+
+.buttons.d-flex.justify-content-center.mb-4.pb-4 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+#resourceBtn {
+    border: 1px solid #D7DFE9 !important;
+    width: 200px;
+    height: 40px;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+}
+
+#requestBtn {
+    border: 1px solid #D7DFE9 !important;
+    width: 200px;
+    height: 40px;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+
+#userBtn {
+    border: 1px solid #D7DFE9 !important;
+    width: 200px;
+    height: 40px;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+}
+
+button.btn.btn-success.btn-sm {
+    background: #2DCA73;
+    padding: 6px 14px;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+}
+
+#searchBox {
+    border-left: none;
+    flex: 1;
+    max-width: 45vw;
+}
+
+#searchIcon {
+    background-color: white;
+    font-size: 20px;
+}
+
+span#inputGroup-sizing-sm {
+    background-color: white;
+    border-radius: 0;
+}
+
+h5#item-title {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #171F46;
+}
+
+h6#item-cat {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #7E858E;
+}
+
+a#item-link {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+p#item-description {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #7E858E;
+}
+
+.btn.btn-outline-primary.btn-sm {
+    background: rgba(215, 223, 233, 0.24);
+    border: 1px solid #D7DFE9;
+    width: 150px;
+    height: 40px;
+}
+
+/* all buttons */
+.btn-group-sm>.btn,
+.btn-sm {
+    --bs-btn-padding-y: 0.5rem !important;
+    --bs-btn-padding-x: 1rem;
+    /* --bs-btn-font-size: 0.87rem; */
+    --bs-btn-border-radius: 0.0rem;
+}
+
+h3.text-center {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    color: #171F46;
+}
+
+a#backTomHome {
+    text-decoration: none;
+    color: black;
+}
+
+label {
+    display: inline-block;
+    color: #7E858E;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+#createBtn {
+    padding: 8px 20px;
+    width: 93px;
+    height: 40px;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+input#exampleInputEmail1 {
+    width: 30vw;
+    margin: 0 auto;
+}
+
+input#exampleInputPassword1 {
+    width: 30vw;
+    margin: 0 auto;
+}
