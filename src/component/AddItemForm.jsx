@@ -33,7 +33,7 @@ function AddItemForm() {
     }
 
     const checkTitleError = (value) => {
-        if (value == "") {
+        if (value === "") {
             setTitleError(false)
         }
         else {
@@ -42,7 +42,7 @@ function AddItemForm() {
     }
 
     const checkCategoryError = (value) => {
-        if (value == "") {
+        if (value === "") {
             setcategoryError(false)
         }
         else {

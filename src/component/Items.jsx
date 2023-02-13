@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import Skeleton from 'react-loading-skeleton';
 import 'react-loading-skeleton/dist/skeleton.css';
 import './style.css';
@@ -62,7 +62,7 @@ function Items() {
     }
 
     const handleSearch = (e) => {
-        if (e.target.value == '') {
+        if (e.target.value === '') {
             setFilter(data);
         }
 
@@ -97,7 +97,7 @@ function Items() {
                                 <div class="card h-100 p-4" key={item.id}>
                                     <div class="card-body">
                                         <div className="d-flex">
-                                            <img src={item.icon_url} width="40px" height="40px" />
+                                            <img src={item.icon_url} width="40px" height="40px" alt='' />
                                             <div>
                                                 <h5 class="small mx-2" id="item-title">{item.title}</h5>
                                                 <h6 class="small mx-2" id="item-cat">{item.category}</h6>
