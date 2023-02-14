@@ -79,7 +79,7 @@ function AddItemForm() {
             <div className="container">
                 <div className="row g-0">
                     <div className="col-lg-6 py-1">
-                        <Link to="/home" id="backTomHome">
+                        <Link to="/Nxtwave_assignement/home" id="backTomHome">
                             <i class="fa fa-chevron-left mx-2"></i> User
                         </Link>
 

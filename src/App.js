@@ -11,9 +11,9 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Login />} />
-        <Route path='/home' element={<Home />} />
-        <Route path='/addItem' element={<AddItemForm />} />
+        <Route path='/Nxtwave_assignement' element={<Login />} />
+        <Route path='/Nxtwave_assignement/home' element={<Home />} />
+        <Route path='/Nxtwave_assignement/addItem' element={<AddItemForm />} />
       </Routes>
     </>
   );
