@@ -13,12 +13,12 @@ function Navbar() {
 
                     <a className="navbar-brand"><img src={logo} alt="Logo" width="80" height="40" className="d-inline-block align-text-center" /></a>
                     <div>
-                        {(location.pathname !== "/Nxtwave_assignement" && location.pathname !== "/Nxtwave_assignement/addItem") &&
+                        {(location.pathname !== "/Nxtwave_assignement/" && location.pathname !== "/Nxtwave_assignement/addItem") &&
                             <Link to="/Nxtwave_assignement/addItem" className="navbar-brand">
                                 <button type="button" className="btn btn-success btn-sm">ADD ITEM</button>
                             </Link>
                         }
-                        {location.pathname !== "/Nxtwave_assignement" &&
+                        {location.pathname !== "/Nxtwave_assignement/" &&
                             <img src={person} alt="Logo" width="50" height="35" className="d-inline-block align-text-center" />
                         }
                     </div>
